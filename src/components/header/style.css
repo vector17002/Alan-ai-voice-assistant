@@ -1,0 +1,17 @@
+.navbar{
+    margin:3%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px 1px rgb(150, 145, 145);
+}
+h3{
+    padding: 8%;
+    margin: 2px;
+}
+.animate{
+    width: 95%;
+    height: 100%;
+}
+
